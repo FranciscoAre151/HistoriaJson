@@ -363,7 +363,7 @@
       "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
       "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
       "texto": "Yamil y Diego se dieron cuenta que no pueden vivir sin sus organos vitales.",
-      "nombre_del_personaje": "FINAL 3",
+      "numero_final": "FINAL 3",
       "sonido_escena": "",
       "escena_anterior": 15
     }
@@ -374,7 +374,7 @@
       "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
       "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
       "texto": "Yamil y Diego terminaron siendo arrestados y se pudrieron en la carcel por el resto de sus vidas.",
-      "nombre_del_personaje": "FINAL 2",
+      "numero_final": "FINAL 2",
       "sonido_escena": "",
       "escena_anterior": 15
     }
@@ -385,7 +385,7 @@
       "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
       "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
       "texto": "Luego de ahorrar por un tiempo, Yamil y Diego pudieron comprar el juego que querian y jugaron hasta que se les salieron los ojos.",
-      "nombre_del_personaje": "FINAL 1",
+      "numero_final": "FINAL 1",
       "sonido_escena": "",
       "escena_anterior": 15
     }
