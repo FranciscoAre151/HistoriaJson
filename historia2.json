@@ -12,12 +12,12 @@
         },
         {
           "nombre": "Lalo",
-          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/diego_no_hablando.png",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/lalo_no_hablando.png",
           "color_de_texto": "#3366FF"
         },
         {
           "nombre": "Bauti",
-          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/diego_no_hablando.png",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/bauti_no_hablando.png",
           "color_de_texto": "#3366FF"
         }
       ],
@@ -68,12 +68,12 @@
         },
         {
           "nombre": "Lalo",
-          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/lalo_no_hablando.png",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
           "color_de_texto": "#3366FF"
         },
         {
           "nombre": "Bauti",
-          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/bauti_hablando.png",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
           "color_de_texto": "#3366FF"
         }
       ],
@@ -91,17 +91,17 @@
       "personajes": [
         {
           "nombre": "Mati",
-          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/mati_hablando.png",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
           "color_de_texto": "#FF5733"
         },
         {
           "nombre": "Lalo",
-          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/lalo_no_hablando.png",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
           "color_de_texto": "#3366FF"
         },
         {
           "nombre": "Bauti",
-          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/bauti_no_hablando.png",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
           "color_de_texto": "#3366FF"
         }
       ],
@@ -147,7 +147,7 @@
       "personajes": [
         {
           "nombre": "Mati",
-          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/mati_hablando.png",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
           "color_de_texto": "#FF5733"
         },
         {
