@@ -1,0 +1,613 @@
+{
+  "escenas": [
+    {
+      "id": 1,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mati",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Hola chicos, buenas tardes. Los cité para que hablemos de su rendimiento en este cuatrimestre y realizarle también una gran propuesta en nombre de los directivos del DCIC. Estamos muy orgullosos de su tránsito en la Universidad y quería contarles una cosa. ¿Están listos?",
+      "nombre_del_personaje": "Mati",
+      "siguiente": 2,
+      "sonido_escena": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/sonidos/sorpresa.wav",
+      "escena_anterior": -1
+    },
+    {
+      "id": 2,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mati",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Nos encantaría saber de que estás hablando Mati, ¿No es así Bauti?",
+      "nombre_del_personaje": "Lalo",
+      "siguiente": 3,
+      "sonido_escena": "",
+      "escena_anterior": 1
+    },
+    {
+      "id": 3,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mati",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Estoy completamente transpirado de los nervios, por favor Mati contanos.",
+      "nombre_del_personaje": "Bauti",
+      "siguiente": 4,
+      "sonido_escena": "",
+      "escena_anterior": 2
+    },
+    {
+      "id": 4,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mati",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "La NASA hace no mucho lanzó un programa de jóvenes para realizar trabajos de mantenimiento a cohetes en Estados Unidos, realizaron un seguimiento de alumnos alrededor del mundo y se interesaron principalmente en ustedes. Debido a su gran trayectoria académica y buenas notas en materias de electrónica.",
+      "nombre_del_personaje": "Mati",
+      "siguiente": 5,
+      "sonido_escena": "",
+      "escena_anterior": 3
+    },
+    {
+      "id": 5,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mati",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Mati la verdad es que no lo podemos creer, podría llegar a ser una experiencia asombrosa. ¿Podrías contarnos un poco más?",
+      "nombre_del_personaje": "Bauti",
+      "siguiente": 6,
+      "sonido_escena": "",
+      "escena_anterior": 4
+    },
+    {
+      "id": 7,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mati",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "No puedo brindarles más detalles porque es todo lo que me dijeron, hasta acá es todo lo que puedo contarles, Mario se va a encargar en 10 minutos de contarles bien la propuesta. Hasta luego chicos.",
+      "nombre_del_personaje": "Diego",
+      "siguiente": 7,
+      "sonido_escena": "",
+      "escena_anterior": 5
+    },
+    {
+      "id": 7,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mario",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Lalo, Bauti, buenas tardes. Disculpen pero no podía aguantar más y me adelanto a contarles. Es de manera urgente, la propuesta es que dejen todo en Argentina que la NASA los espera para poder capacitarlos y ser el futuro de una generación entera.",
+      "nombre_del_personaje": "Mario",
+      "siguiente": 8,
+      "sonido_escena": "",
+      "escena_anterior": 6
+    },
+    {
+      "id": 8,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mario",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "El plan es el siguiente, en 3 días estarían viajando para Washington, allí el presidente de la NASA los espera para continuar con todo este proceso. El único requisito es que deben dejar todo para siempre, su familia, amigos, casa y nunca más volver a verlos.",
+      "nombre_del_personaje": "Mario",
+      "siguiente": 9,
+      "sonido_escena": "",
+      "escena_anterior": 7
+    },
+    {
+      "id": 9,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mario",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "¿Mario nos permitirías pensar la propuesta un rato a solas?",
+      "nombre_del_personaje": "Bauti",
+      "siguiente": 10,
+      "sonido_escena": "",
+      "escena_anterior": 8
+    },
+    {
+      "id": 10,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Amigo que locura todo esto que acaba de pasar. No estoy preparado pero me genera muchísima curiosidad y a la vez temor. ¿Qué hacemos?",
+      "nombre_del_personaje": "Lalo",
+      "siguiente": 11,
+      "sonido_escena": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/sonidos/sorpresa.wav",
+      "escena_anterior": 9
+    },
+    {
+      "id": 11,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "¿Qué decidirán hacer los intrépidos amigos?",
+      "nombre_del_personaje": "",
+      "decisiones": [
+        {
+          "texto_decision": "Aceptar la propuesta de Mario y Mati e irse del país para continuar su aventura en la NASA.",
+          "escena_siguiente": 12
+        },
+        {
+          "texto_decision": "Quedarse en la UNS con la mentalidad puesta en recibirse el año próximo.",
+          "escena_siguiente": 18
+        },
+        {
+          "texto_decision": "Cumplir sus sueños de chico y dejar la Universidad",
+          "escena_siguiente": 21
+        }
+      ],
+      "sonido_escena": "",
+      "escena_anterior": 10
+    },
+    {
+      "id": 12,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Bueno Bauti comienza una nueva aventura, ya estamos arriba del avión y no podemos arrepentirnos. Que placer poder realizar esta experiencia con vos.",
+      "nombre_del_personaje": "Lalo",
+      "siguiente": 13,
+      "sonido_escena": "",
+      "escena_anterior": 11
+    },
+    {
+      "id": 13,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Bueno amigo parece que aterrizamos. ¿Nos estará esperando alguno?",
+      "nombre_del_personaje": "Bauti",
+      "siguiente": 13,
+      "sonido_escena": "",
+      "escena_anterior": 12
+    }
+    ,
+    {
+      "id": 14,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Zombie",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/zombie.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "¿Y este muñeco quién es? Estados Unidos de América está bajo invasión zombie, nos tendieron una trampa. ¿Qué hacemos?",
+      "nombre_del_personaje": "Lalo",
+      "siguiente": 15,
+      "sonido_escena": "",
+      "escena_anterior": 13
+    }
+    ,
+    {
+      "id": 15,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "",
+      "nombre_del_personaje": "",
+      "decisiones": [
+        {
+          "texto_decision": "Pilotear el avión e intentar volver al país",
+          "escena_siguiente": 16
+        },
+        {
+          "texto_decision": "Quedarse e intentar sobrevivir",
+          "escena_siguiente": 17
+        }
+      ],
+      "sonido_escena": "",
+      "escena_anterior": 14
+    }
+    ,
+    {
+      "id": 16,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/BautistaGraffBohn/HistoriaJson/main/imagenes/fondos/finalpilotear.png",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Los intrépidos amigos no supieron arrancar el avión y fueron devorados por zombies",
+      "es_final": true,
+      "numero_final": "FINAL 1",
+      "sonido_escena": "",
+      "escena_anterior": 15
+    }
+    ,
+    {
+      "id": 17,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/BautistaGraffBohn/HistoriaJson/main/imagenes/fondos/finalquedarse.png",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Bauti y Lalo consiguieron refugio y pudieron salvarse momentáneamente de los zombies, nunca pudieron regresar a su país y murieron a los pocos días de hambruna",
+      "es_final": true,
+      "numero_final": "FINAL 2",
+      "sonido_escena": "",
+      "escena_anterior": 15
+    }
+    ,
+    {
+      "id": 18,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mario",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Mario te agradecemos la propuesta pero decidimos quedarnos estudiando con la cabeza en recibirnos el año próximo y lograr ser excelentes profesionales.",
+      "nombre_del_personaje": "Bauti",
+      "siguiente": 19,
+      "sonido_escena": "",
+      "escena_anterior": 11
+    }
+    ,
+    {
+      "id": 19,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mario",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Bueno chicos la propuesta se la haremos a Gonza y Facu, no me cabe ni una sola duda de que ellos podrán ser excelentes profesionales en la NASA y no tienen temor a lo que pueda pasar como algunos...",
+      "nombre_del_personaje": "Bauti",
+      "siguiente": 20,
+      "sonido_escena": "",
+      "escena_anterior": 18
+    }
+    ,
+    {
+      "id": 20,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/BautistaGraffBohn/HistoriaJson/main/imagenes/fondos/finalrecibidos.png",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Los intrépidos amigos lograron recibirse con un excelente promedio en la UNS",
+      "es_final": true,
+      "numero_final": "FINAL 3",
+      "sonido_escena": "",
+      "escena_anterior": 15
+    }
+    ,
+    {
+      "id": 21,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Mario",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Mario hemos decidido con Bauti perseguir nuestros sueños que de chico soñamos. Te agradecemos profundamente la propuesta",
+      "nombre_del_personaje": "Lalo",
+      "siguiente": 22,
+      "sonido_escena": "",
+      "escena_anterior": 11
+    }
+    ,
+    {
+      "id": 22,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+        {
+          "nombre": "Lalo",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        },
+        {
+          "nombre": "Bauti",
+          "imagen": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/personajes/yamil_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Bueno amigo ahora vamos a elegir que va a ser de nuestras vidas. Nunca esperé tanto este momento en donde uno abandona al sistema y elige ser feliz.",
+      "nombre_del_personaje": "Lalo",
+      "siguiente": 23,
+      "sonido_escena": "",
+      "escena_anterior": 21
+    }
+    ,
+    {
+      "id": 23,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/IAP-UNS/IAP2023-Proyecto3-Assets/main/imagenes/fondos/foto-edificio-dcic.jpg",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "personajes": [
+      ],
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "¿Cuál es el plan que decidirán los amigos?",
+      "nombre_del_personaje": "",
+      "decisiones": [
+        {
+          "texto_decision": "Lalo elige quedarse peleándola en el Liverfull para lograr llevarlo a la Liga del Sur y Bauti es electo DT del Liverfull.",
+          "escena_siguiente": 24
+        },
+        {
+          "texto_decision": "Los chicos eligen seguir el sueño de Bauti de ser dj residente en un parador de Buzios y Lalo funciona como su Mánager.",
+          "escena_siguiente": 25
+        },
+        {
+          "texto_decision": "Ahorrar y comprarse una granja",
+          "escena_siguiente": 26
+        }
+      ],
+      "sonido_escena": "",
+      "escena_anterior": 22
+    }
+    ,
+    {
+      "id": 24,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/BautistaGraffBohn/HistoriaJson/main/imagenes/fondos/finalliverfull.png",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Debido a los escasos conocimientos del DT y la falta de compromiso del equipo debido a la nocturnidad el Liverfull deja de existir.",
+      "es_final": true,
+      "numero_final": "FINAL 4",
+      "sonido_escena": "",
+      "escena_anterior": 23
+    }
+    ,
+    {
+      "id": 25,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/BautistaGraffBohn/HistoriaJson/main/imagenes/fondos/finalbrasil.png",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Los intrépidos amigos no sólo cumplieron su sueño de vivir en Brasil de la noche y la música sino que ahora son millonarios y recorren el mundo deleitando a la gente con la más fina música house.",
+      "es_final": true,
+      "numero_final": "FINAL 5",
+      "sonido_escena": "",
+      "escena_anterior": 23
+    }
+    ,
+    {
+      "id": 26,
+      "imagen_de_fondo": "https://raw.githubusercontent.com/BautistaGraffBohn/HistoriaJson/main/imagenes/fondos/finalbrasil.png",
+      "musica_de_fondo": "https://github.com/IAP-UNS/IAP2023-Proyecto3-Assets/blob/main/audio/fondos/fondo2.mp3",
+      "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
+      "texto": "Los chicos no pduieron ahorrar lo suficiente para comprar una granja y vivieron mantenidos por sus padres.",
+      "es_final": true,
+      "numero_final": "FINAL 6",
+      "sonido_escena": "",
+      "escena_anterior": 23
+    }
+  ]
+}
