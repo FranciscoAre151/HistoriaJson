@@ -282,7 +282,6 @@
       "personajes": [
       ],
       "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
-      "texto": "¿Qué decidirán hacer los intrépidos amigos?",
       "nombre_del_personaje": "",
       "decisiones": [
         {
@@ -298,6 +297,7 @@
           "escena_siguiente": 21
         }
       ],
+      "texto": "¿Qué decidirán hacer los intrépidos amigos?",
       "sonido_escena": "",
       "escena_anterior": 10
     },
@@ -554,7 +554,6 @@
       "personajes": [
       ],
       "cuadro_de_dialogo": "https://opengameart.org/sites/default/files/Dialog%20Box%20Example2.png",
-      "texto": "¿Cuál es el plan que decidirán los amigos?",
       "nombre_del_personaje": "",
       "decisiones": [
         {
@@ -571,6 +570,7 @@
         }
       ],
       "sonido_escena": "",
+      "texto": "¿Cuál es el plan que decidirán los amigos?",
       "escena_anterior": 22
     }
     ,
